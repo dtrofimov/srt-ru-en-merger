@@ -1,0 +1,12 @@
+{
+  "name": "srt-ru-en-merger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": "Dmitrii Trofimov",
+  "license": "MIT",
+  "dependencies": {
+    "subtitles-parser": "0.0.2",
+    "underscore": "^1.8.3"
+  }
+}
